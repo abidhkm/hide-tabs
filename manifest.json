@@ -1,0 +1,24 @@
+{
+  "name": "Hide tabs",
+  "description": "Hide tabs",
+  "version": "0.1",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs"
+  ],
+  "manifest_version": 2,
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "browser_action": {
+    "default_title": "Hide tabs"
+  },
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  }
+}
