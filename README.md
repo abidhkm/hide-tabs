@@ -1,3 +1,3 @@
 # hide-tabs
-A chrome extension to close all the tabs on click and and reopen on clicking again
+A browser extension to close all the tabs on click and and reopen on clicking again
 
